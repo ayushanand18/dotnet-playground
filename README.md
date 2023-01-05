@@ -1,7 +1,14 @@
-# dotnet-playground
-.Net 6.0
-
+# A .Net Apps Playground
+```
+    .Net 6.0
+--------------------
 SDK Version: 6.0.404
+```
+## Directory Information
+directory|description
+---------|-------------------
+`MyApp`  | a .Net console app
+`WebApp` | A .Net Blazor App
 
 ## Installation Steps
 1. To install .Net on Ubuntu follow the steps
@@ -28,3 +35,4 @@ SDK Version: 6.0.404
     dotnet --list-runtimes
     ```
 
+Made with ❤️ by Ayush!
