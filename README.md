@@ -35,6 +35,7 @@ directory|description
     dotnet --list-runtimes
     ```
 ## Courses
-1. [A good course on .NET for IoT on LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-iot-with-dot-net-core/intro-to-iot-with-dot-net-core?autoplay=true)
+1. [A good course on C# by Microsoft Learn](https://learn.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07)
+2. [A good course on .NET for IoT on LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-iot-with-dot-net-core/intro-to-iot-with-dot-net-core?autoplay=true)
 
 Made with ❤️ by Ayush!
