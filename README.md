@@ -7,7 +7,7 @@ SDK Version: 6.0.404
 ## Directory Information
 directory|description
 ---------|-------------------
-`MyApp`  | a .Net console app
+`MyApp`  | A .Net console app
 `WebApp` | A .Net Blazor App
 
 ## Installation Steps
@@ -34,5 +34,6 @@ directory|description
     ```sh
     dotnet --list-runtimes
     ```
-
+## Courses
+1. [A good course on .NET for IoT on LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-iot-with-dot-net-core/intro-to-iot-with-dot-net-core?autoplay=true)
 Made with ❤️ by Ayush!
